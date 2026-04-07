@@ -27,8 +27,7 @@ A Node and Express backend API for managing student records with MongoDB.
 
 2. Create a `.env` file in the project root with:
    ```env
-   MONGO_URI=mongodb://localhost:27017/studentdb_1
-   PORT=6969
+   env should match your own environmental needs/requirements
    ```
 
 3. Start the app:
